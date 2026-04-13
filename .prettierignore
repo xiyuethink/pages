@@ -1,0 +1,7 @@
+node_modules/
+dist/
+build/
+_site/
+.jekyll-cache/
+*.min.js
+*.min.css
